@@ -1,112 +1,112 @@
 Continent,Country,Code,Location,Lat,Long,altitude,Operationaldate,Nlaunches,Heaviest,Highest,Include,Notes
-Africa,Congo (Zaire),CD,Shaba,-7.92587,28.52766,907.3,1977–1978,3,,<50 km,1,German OTRAG rockets.[2]
-Africa,Egypt,EG,Jabal Hamzah,30.12575,30.60513889,96.7,Late 1950s–present,6,,,1,Al Zafir and Al Kahir SRBMs testing[3][4]
-Africa,Libya,LY,Sabha,26.99392,14.46425,436.2,1981–1982,,,50 km,1,German OTRAG rockets.[6]
-Africa,South Africa,ZA,Overberg ,-34.60265,20.30248,9.6,1989–1990,,,,1,Launched test mission rockets only.[7]
 Antarctica,Antarctica,AQ,McMurdo Station,-77.846323,166.668235,0,,,,,1,
-Asia,India,IN,Vikram Sarabhai,8.5314,76.869,-2.7,1962–,>2000,,,1,[12]
-Asia,Indonesia,ID,Stasiun Peluncuran,-7.646643,107.689018,6.5,1965–,14+,765 kg,100 km,1,
-Asia,Iraq,IQ,Al-Anbar ,32.7822,44.29962,33.5,1989,,,,1,Out of function[16]
-Asia,Japan,JP,Akita ,39.57148,140.05785,6.1,1956–1990,81,,343 km,1,
-Asia,Maldives,MV,Gan Island,-0.69328,73.15672,594.7,,,,,1,Several rockets of the Kookaburra type were launched from a pad at 0°41 S and 73°9 E[24]
-Asia,Pakistan,PK,Sonmiani ,25.19242,66.74881,24.1,1960s –[25],,,,1,Sounding rockets_ missile testing_ for SUPARCO.[26]
-Asia,Taiwan,TW,Haiqian,22.1,120.9,-60.2,1988–,,10 000 kg,300 km,1,Science and technology development
-Europe,France,FR,Ile du Levant,43.04507,6.47887,-339.5,1948–[citation needed],,,,1,
-Europe,Germany,DE,Peenemünde,54.143,13.794,11,1942–1945,>3000,12 500 kg,>100 km,1,V-2 rockets during World War II_ first rocket to reach space 20 June 1944
-Europe,Greece,GR,Koroni,36.7698,21.9316,-80.5,1966–1989,371,,114 km,1,
-Europe,Iceland,IS,Vik,63.41891,-19.00463,24.1,1964–1965,2,,,1,
-Europe,Italy,IT,Salto di Quirra,39.52731,9.63303,52.7,1964–[citation needed],,,,1,
-Europe,Norway,NO,Andøya,69.2943,16.0207,118.9,1962–,>1200,800 kg,,1,Rockets to the upper atmosphere.[34]
-Europe,Norway,NO,SvalRak,78.2234,15.647,1.5,1997–[citation needed],,,,1,
-Europe,Poland,PL,Łeba-Rąbka,54.754486,17.517919,-10.5,1963–1973,36,,,1,Polish rockets
-Europe,Spain,ES,El Arenosillo,37.09687,-6.73863,33.1,1966–[citation needed],>500,,,1,
-Europe,Sweden,SE,Esrange,67.89342,21.10429,406.1,1972–[citation needed],300,12 400 kg,717 km,1,Operated by SSC.[37] Major programmes: Maxus_ TEXUS_ Maser_ stratospheric balloons.
-Europe,United Kingdom,GB,South Uist,57.33,-7.33,6.9,1959–,1 (2015),approx 1300 kg plus payload,,1,First space launch from the UK took place from here in October 2015 as part of At Sea Demonstration 15 . The rocket was an American Terrier-Orion sounding rocket.[39]
-North America,Canada,CA,Churchill Rocket Research Range,58.7343,-93.8203,14.3,1954–1998,>3500,,,0,Canadian Army.[43]
-North America,Canada,CA,Resolute Bay,74.687,-94.8962,20,1966–1971,17,,,1,National Research Council Canada.[44]
-North America,United States,US,Boca Chica,25.996,-97.154,0.9,Under construction,,,,0,Planned SpaceX launch site. Adding it because Im sure if it is not there it will be the first comment when we release this mod.
-North America,United States,US,White Sands,32.5646,-106.35908,1206.6,1946–,>7000,,,0,Military and civilian flights. Served as alternate landing site for the space shuttle.[47]
-North America,United States,US,Spaceport America,32.88943,-106.99945,1386.9,2006–,8,,,1,Sub-orbital commercial and planned space tourist launches. Operated by the state of New Mexico with Virgin Galactic as the anchor tenant.[51][52][53][54]
-Oceania,Australia,AU,Carnarvon,-24.48564,113.40866,-19,1964–1965,12,,120 km,1,
-South America,Argentina,AR,Pampa de Achala,-31.5833,-64.8333,1989.9,1961–1962,8,28 kg,25 km,1,First Argentine launch site.
 South America,Argentina,AR,CELPA,-30.12737,-66.34082,356.2,1962–1974 / 2011–,100 (approximately),933 kg,550 km,1,Military Launch Test Site (CITIDEF)
 South America,Argentina,AR,Mar Chiquita,-37.72427,-57.40512,-1.5,1968–1972,11,,,1,
-South America,Brazil,BR,Barreira do Inferno,-5.866,-35.383,36.1,1965–,233,,1100 km,1,
+South America,Argentina,AR,Pampa de Achala,-31.5833,-64.8333,1989.9,1961–1962,8,28 kg,25 km,1,First Argentine launch site.
+Oceania,Australia,AU,Carnarvon,-24.48564,113.40866,-19,1964–1965,12,,120 km,1,
 South America,Brazil,BR,Alcântara,-2.316,-44.3676,5.6,1990–,35,6 737 kg,956 km,1,Brazilian Air Force_ Brazilian Space Agency. Planned satellite launches.
+South America,Brazil,BR,Barreira do Inferno,-5.866,-35.383,36.1,1965–,233,,1100 km,1,
+North America,Canada,CA,Resolute Bay,74.687,-94.8962,20,1966–1971,17,,,1,National Research Council Canada.[44]
+Africa,Congo (Zaire),CD,Shaba,-7.92587,28.52766,907.3,1977–1978,3,,<50 km,1,German OTRAG rockets.[2]
+Europe,Germany,DE,Peenemünde,54.143,13.794,11,1942–1945,>3000,12 500 kg,>100 km,1,V-2 rockets during World War II_ first rocket to reach space 20 June 1944
+Africa,Egypt,EG,Jabal Hamzah,30.12575,30.60513889,96.7,Late 1950s–present,6,,,1,Al Zafir and Al Kahir SRBMs testing[3][4]
+Europe,Spain,ES,El Arenosillo,37.09687,-6.73863,33.1,1966–[citation needed],>500,,,1,
+Europe,France,FR,Ile du Levant,43.04507,6.47887,-339.5,1948–[citation needed],,,,1,
+Europe,United Kingdom,GB,South Uist,57.33,-7.33,6.9,1959–,1 (2015),approx 1300 kg plus payload,,1,First space launch from the UK took place from here in October 2015 as part of At Sea Demonstration 15 . The rocket was an American Terrier-Orion sounding rocket.[39]
+Europe,Greece,GR,Koroni,36.7698,21.9316,-80.5,1966–1989,371,,114 km,1,
+Asia,Indonesia,ID,Stasiun Peluncuran,-7.646643,107.689018,6.5,1965–,14+,765 kg,100 km,1,
+Asia,India,IN,Vikram Sarabhai,8.5314,76.869,-2.7,1962–,>2000,,,1,[12]
+Asia,Iraq,IQ,Al-Anbar ,32.7822,44.29962,33.5,1989,,,,1,Out of function[16]
+Europe,Iceland,IS,Vik,63.41891,-19.00463,24.1,1964–1965,2,,,1,
+Europe,Italy,IT,Salto di Quirra,39.52731,9.63303,52.7,1964–[citation needed],,,,1,
+Asia,Japan,JP,Akita ,39.57148,140.05785,6.1,1956–1990,81,,343 km,1,
+Africa,Libya,LY,Sabha,26.99392,14.46425,436.2,1981–1982,,,50 km,1,German OTRAG rockets.[6]
+Asia,Maldives,MV,Gan Island,-0.69328,73.15672,594.7,,,,,1,Several rockets of the Kookaburra type were launched from a pad at 0°41 S and 73°9 E[24]
+Europe,Norway,NO,Andøya,69.2943,16.0207,118.9,1962–,>1200,800 kg,,1,Rockets to the upper atmosphere.[34]
+Europe,Norway,NO,SvalRak,78.2234,15.647,1.5,1997–[citation needed],,,,1,
 South America,Peru,PE,Chilca,-12.50477,-76.79849,5.8,1974-1983,<65,,590 km,1,Sounding rocket launch location.[68]
+Asia,Pakistan,PK,Sonmiani ,25.19242,66.74881,24.1,1960s –[25],,,,1,Sounding rockets_ missile testing_ for SUPARCO.[26]
+Europe,Poland,PL,Łeba-Rąbka,54.754486,17.517919,-10.5,1963–1973,36,,,1,Polish rockets
 South America,Suriname,SR,Coronie,5.87241,-56.28908,2.1,1965–1965,4,,205 km,1,
-Africa,Algeria,DZ,Reggane,26.71895,0.27691,254.2,1961–1965,10,,,0,
-Africa,Mauritania,MR,Nouadhibou,20.92856,-17.03153,6.2,1973–1973,1,,,0,During a solar eclipse
-Asia,China,CN,Base 603_ Shijiedu_ Guangde,30.93743,119.20575,63.6,1960–1966,,1 000 kg,<60 km,0,
-Asia,China,CN,Jingyu,42,126.5,608,,,,,0,
-Asia,India,IN,Abdul Kalam Island_  Balasore_ Odisha,20.75804,87.085533,-3.7,,,,,0,
-Asia,Iran,IR,Qom Space Center,34.65,50.9,977.1,1991,,,,0,Military testing[14]
-Asia,Iran,IR,Emamshahr Space Center,36.42,55.02,1309.2,1998,,,,0,Military testing and sounding rockets for ISA.[15]
-Asia,Japan,JP,Ryori,39.03,141.83,16.9,1970–,,,,0,
-Asia,Japan,JP,Niijima,34.33766,139.26575,-82.5,,,,,0,
-Asia,Japan,JP,Obachi,40.70342,141.36938,8.9,,,,,0,
-Asia,Kazakhstan,KZ,Sary Shagan,46.38,72.87,493.9,1958–,,,,0,
-Asia,Korea South,KR,Anhueng,36.70211,126.47158,22.6,1993–,,,,0,
-Asia,Korea_ North,KP,Musudan-ri,40.85572,129.66587,151.7,1998–,,,,0,Military rockets; satellite launch[21]
-Asia,Pakistan,PK,Tilla Satellite Launch Center_ Jhelum District_ Punjab,33.3961,73.29608,522.7,1980s –[27],,,,0,Sounding rockets_ missile testing_ for SUPARCO.[28]
-Asia,Russia,RU,Vostochny Cosmodrome_ Amur Oblast_ Russia,51.883,128.333,252.5,28 April 2016[32]–,,,,0,Facility on Russian territory to supplement Baikonur Cosmodrome in Kazakhstan
-Asia,Russia,RU,Okhotsk,59.36666667,143.25,-1,1981–2005,,,1000 km,0,Submarine launches
-Asia,Russia,RU,Sovetskaya Gavan,48.97,140.3,59.2,1963–1964,6,,402 km,0,
-Asia,Russia,RU,Kheysa,80.45,58.05,58.6,1956–1980,,,,0,
-Europe,Germany,DE,Zingst,54.44008,12.78431,-2,1970–1992,67,,80 km,0,
-Europe,Germany,DE,Rocket Launch Site Berlin_ Berlin-Tegel,52.35,13.21,48.5,1930–1933,,,4 km,0,
-Europe,Germany,DE,Cuxhaven,53.84884,8.59154,4.7,1945–1964,,,,0,
-Europe,Germany,DE,Hespenbusch_ Großenkneten,52.939002,8.312515,33.4,1952–1957,,,<10 km,0,
-Europe,Norway,NO,Marka,58.2,7.3,256.6,1983–1984,,16 kg,,0,
-Europe,Poland,PL,Blizna,50.1819,21.6162,214.1,1943–1944[citation needed],139,,,0,Nazi-German V-2 rockets
-Europe,Poland,PL,Tuchola Forest,53.6197,17.98492,116.4,1944–1945,,,,0,Nazi-German V-2 rockets
-Europe,Poland,PL,Łeba,54.76904,17.59355,-9.2,1941–1945,,,,0,Nazi-German rockets
-Europe,Russia,RU,Nyonoksa,64.64928,39.18721,12.4,1965–1997[citation needed],,,,0,
-Europe,Sweden,SE,Kronogård,66.4147,19.2767,508.5,1961–1964,18,700 kg,135 km,0,Arcas_ Nike-Cajun and Nike-Apache rockets for atmospheric research.
-Europe,Sweden,SE,Nausta,66.357202,19.275813,534.9,1961–1961[citation needed],1,30 kg,<80 km,0,Arcas rocket for atmospheric research.[36]
-Europe,United Kingdom,GB,Highdown Test Site_ Isle of Wight,50.6639345,-1.5763664,-10.2,1956–1971,0,,,0,This site was used for static tests of assembled rockets only prior to them being shipped to Australia for launch.[38]
-North America,Canada,CA,Hall Beach,68.77607,-81.24346,-13.6,1971–1971,7,,270 km,0,
-North America,Canada,CA,Southend,56.33333333,-103.2333333,351.6,1980–1980,2,1 200 kg,,0,
-North America,Greenland (Denmark),GL,Thule Air Base,76.424,-68.2936,462.5,1964–1980,,,,0,US Air Force[45]
-North America,United States,US,Keweenaw_ Michigan,47.4298,-87.71443,187.2,1964–1971[citation needed],>50,770 kg,<160 km,0,Currently inactive
-North America,United States,US,Nevada Test and Training Range (formerly Nellis Air Force Range),36.7715,-116.11374,1294.8,1950s–[citation needed],,,,0,[48]
-North America,United States,US,Pacific Missile Range Facility_ Hawaii,22.02278,-159.785,4,1963–,,,,0,testing of antiballistic missile and missile tracking by the US Navy.
-North America,United States,US,Mojave Air and Space Port_ California,35.0591,-118.1488,837.1,2004–,,,112 km,0,Privately funded spacecraft (Xoie_ Xombie_ Xodiac_ SpaceShipOne_ SpaceShipTwo).
-Oceania,Australia,AU,Lancelin,-30.98309,115.31774,22.3,1974–1974,2,,,0,During a total solar eclipse
-Oceania,New Zealand,NZ,Birdlings Flat,-43.817,172.683,-8.3,,,,,0,Formerly proposed launch site for Rocket Lab_ never developed.
-South America,Argentina,AR,Punta Indio,-35.523889,-57.183889,1.1,2014–,3,7 076 kg [67],2.2 km,0,Civilian Launch Test Site (CONAE)
+Asia,Taiwan,TW,Haiqian,22.1,120.9,-60.2,1988–,,10 000 kg,300 km,1,Science and technology development
+North America,United States,US,Spaceport America,32.88943,-106.99945,1386.9,2006–,8,,,1,Sub-orbital commercial and planned space tourist launches. Operated by the state of New Mexico with Virgin Galactic as the anchor tenant.[51][52][53][54]
+Africa,South Africa,ZA,Overberg ,-34.60265,20.30248,9.6,1989–1990,,,,1,Launched test mission rockets only.[7]
 South America,Argentina,AR,Las Palmas,-27.09531,-58.75352,57.7,1966–1966,2,3 400 kg,270 km,0,During a solar eclipse_ with Titus rockets.
 South America,Argentina,AR,Puerto Belgrano,-38.9628,-61.715,14.6,TBA,,,,0,Launch pad for Tronador II under construction (CONAE)
+South America,Argentina,AR,Punta Indio,-35.523889,-57.183889,1.1,2014–,3,7 076 kg [67],2.2 km,0,Civilian Launch Test Site (CONAE)
+South America,Argentina,AR,Serrezuela,-30.6333,-65.3833,274.4,2009,1,500 kg,40 km,0,Military test (Gradicom I)
 South America,Argentina,AR,Tartagal,-22.76158,-63.82381,394.2,1966–1966,,,,0,During a solar eclipse
 South America,Argentina,AR,Villa Reynolds,-33.7246,-65.3773,491.6,1973–1973,2,,,0,
-South America,Argentina,AR,Serrezuela,-30.6333,-65.3833,274.4,2009,1,500 kg,40 km,0,Military test (Gradicom I)
+Oceania,Australia,AU,Lancelin,-30.98309,115.31774,22.3,1974–1974,2,,,0,During a total solar eclipse
 South America,Brazil,BR,Praia do Cassino,-32.08338,-52.16725,1.2,1966–1966,27,,,0,
+North America,Canada,CA,Churchill Rocket Research Range,58.7343,-93.8203,14.3,1954–1998,>3500,,,0,Canadian Army.[43]
+North America,Canada,CA,Hall Beach,68.77607,-81.24346,-13.6,1971–1971,7,,270 km,0,
+North America,Canada,CA,Southend,56.33333333,-103.2333333,351.6,1980–1980,2,1 200 kg,,0,
+Asia,China,CN,Base 603_ Shijiedu_ Guangde,30.93743,119.20575,63.6,1960–1966,,1 000 kg,<60 km,0,
+Asia,China,CN,Jingyu,42,126.5,608,,,,,0,
+Europe,Germany,DE,Cuxhaven,53.84884,8.59154,4.7,1945–1964,,,,0,
+Europe,Germany,DE,Hespenbusch_ Großenkneten,52.939002,8.312515,33.4,1952–1957,,,<10 km,0,
+Europe,Germany,DE,Rocket Launch Site Berlin_ Berlin-Tegel,52.35,13.21,48.5,1930–1933,,,4 km,0,
+Europe,Germany,DE,Zingst,54.44008,12.78431,-2,1970–1992,67,,80 km,0,
+Africa,Algeria,DZ,Reggane,26.71895,0.27691,254.2,1961–1965,10,,,0,
+Europe,United Kingdom,GB,Highdown Test Site_ Isle of Wight,50.6639345,-1.5763664,-10.2,1956–1971,0,,,0,This site was used for static tests of assembled rockets only prior to them being shipped to Australia for launch.[38]
+North America,Greenland (Denmark),GL,Thule Air Base,76.424,-68.2936,462.5,1964–1980,,,,0,US Air Force[45]
+Asia,India,IN,Abdul Kalam Island_  Balasore_ Odisha,20.75804,87.085533,-3.7,,,,,0,
+Asia,Iran,IR,Emamshahr Space Center,36.42,55.02,1309.2,1998,,,,0,Military testing and sounding rockets for ISA.[15]
+Asia,Iran,IR,Qom Space Center,34.65,50.9,977.1,1991,,,,0,Military testing[14]
+Asia,Japan,JP,Niijima,34.33766,139.26575,-82.5,,,,,0,
+Asia,Japan,JP,Obachi,40.70342,141.36938,8.9,,,,,0,
+Asia,Japan,JP,Ryori,39.03,141.83,16.9,1970–,,,,0,
+Asia,Korea_ North,KP,Musudan-ri,40.85572,129.66587,151.7,1998–,,,,0,Military rockets; satellite launch[21]
+Asia,Korea South,KR,Anhueng,36.70211,126.47158,22.6,1993–,,,,0,
+Asia,Kazakhstan,KZ,Sary Shagan,46.38,72.87,493.9,1958–,,,,0,
+Africa,Mauritania,MR,Nouadhibou,20.92856,-17.03153,6.2,1973–1973,1,,,0,During a solar eclipse
+Europe,Norway,NO,Marka,58.2,7.3,256.6,1983–1984,,16 kg,,0,
+Oceania,New Zealand,NZ,Birdlings Flat,-43.817,172.683,-8.3,,,,,0,Formerly proposed launch site for Rocket Lab_ never developed.
 South America,Peru,PE,Chilca PLOB_ Punta Lobos Range,-12.5,-76.8,5.5,1983,32,2 000 kg,590 km,0,Sounding rocket launch location. Possibly part of_ or identical to_ Chilca Launch Range. [69][70]
-Africa,Algeria,DZ,Centre interarmées dessais dengins spéciaux (CIEES)_ Hammaguir,31.09951,-2.83581,624,1947–1967,230,18 000 kg,Orbital,-1,Operated by France.[1]
+Asia,Pakistan,PK,Tilla Satellite Launch Center_ Jhelum District_ Punjab,33.3961,73.29608,522.7,1980s –[27],,,,0,Sounding rockets_ missile testing_ for SUPARCO.[28]
+Europe,Poland,PL,Blizna,50.1819,21.6162,214.1,1943–1944[citation needed],139,,,0,Nazi-German V-2 rockets
+Europe,Poland,PL,Łeba,54.76904,17.59355,-9.2,1941–1945,,,,0,Nazi-German rockets
+Europe,Poland,PL,Tuchola Forest,53.6197,17.98492,116.4,1944–1945,,,,0,Nazi-German V-2 rockets
+Asia,Russia,RU,Kheysa,80.45,58.05,58.6,1956–1980,,,,0,
+Europe,Russia,RU,Nyonoksa,64.64928,39.18721,12.4,1965–1997[citation needed],,,,0,
+Asia,Russia,RU,Okhotsk,59.36666667,143.25,-1,1981–2005,,,1000 km,0,Submarine launches
+Asia,Russia,RU,Sovetskaya Gavan,48.97,140.3,59.2,1963–1964,6,,402 km,0,
+Asia,Russia,RU,Vostochny Cosmodrome_ Amur Oblast_ Russia,51.883,128.333,252.5,28 April 2016[32]–,,,,0,Facility on Russian territory to supplement Baikonur Cosmodrome in Kazakhstan
+Europe,Sweden,SE,Esrange,67.89342,21.10429,406.1,1972–[citation needed],300,12 400 kg,717 km,0,Operated by SSC.[37] Major programmes: Maxus_ TEXUS_ Maser_ stratospheric balloons.
+Europe,Sweden,SE,Kronogård,66.4147,19.2767,508.5,1961–1964,18,700 kg,135 km,0,Arcas_ Nike-Cajun and Nike-Apache rockets for atmospheric research.
+Europe,Sweden,SE,Nausta,66.357202,19.275813,534.9,1961–1961[citation needed],1,30 kg,<80 km,0,Arcas rocket for atmospheric research.[36]
+North America,United States,US,Boca Chica,25.996,-97.154,0.9,Under construction,,,,0,Planned SpaceX launch site. Adding it because Im sure if it is not there it will be the first comment when we release this mod.
+North America,United States,US,Keweenaw_ Michigan,47.4298,-87.71443,187.2,1964–1971[citation needed],>50,770 kg,<160 km,0,Currently inactive
+North America,United States,US,Mojave Air and Space Port_ California,35.0591,-118.1488,837.1,2004–,,,112 km,0,Privately funded spacecraft (Xoie_ Xombie_ Xodiac_ SpaceShipOne_ SpaceShipTwo).
+North America,United States,US,Nevada Test and Training Range (formerly Nellis Air Force Range),36.7715,-116.11374,1294.8,1950s–[citation needed],,,,0,[48]
+North America,United States,US,Pacific Missile Range Facility_ Hawaii,22.02278,-159.785,4,1963–,,,,0,testing of antiballistic missile and missile tracking by the US Navy.
+North America,United States,US,White Sands,32.5646,-106.35908,1206.6,1946–,>7000,,,0,Military and civilian flights. Served as alternate landing site for the space shuttle.[47]
+Oceania,Australia,AU,Woomera Test Range,-30.95875,136.50366,145.7,1950s–,,28 000 kg,Orbital,-1,British/Australian government research facility. Missile testing_ 2 satellite launches.
 Asia,China,CN,Jiuquan Satellite Launch Center,41.11803,100.4633,1048.5,1970–,,464 000 kg,Orbital,-1,Human spaceflight[8]
 Asia,China,CN,Taiyuan Satellite Launch Center,39.14321,111.96741,1495.3,1980–,,,Orbital,-1,Polar satellites[9]
-Asia,China,CN,Xichang Satellite Launch Center,28.24646,102.02814,2397.9,1984–,,,Lunar,-1,Geo-synchronous satellites_ lunar probes.[10][11]
 Asia,China,CN,Wenchang Satellite Launch Center,19.61449167,110.9511333,-6.2,2016–,,879 000 kg,Orbital,-1,New site on Hainan Island with pads for Long March 5 and Long March 7 rockets
+Asia,China,CN,Xichang Satellite Launch Center,28.24646,102.02814,2397.9,1984–,,,Lunar,-1,Geo-synchronous satellites_ lunar probes.[10][11]
+Africa,Algeria,DZ,Centre interarmées dessais dengins spéciaux (CIEES)_ Hammaguir,31.09951,-2.83581,624,1947–1967,230,18 000 kg,Orbital,-1,Operated by France.[1]
+South America,France,FR,Guiana Space Centre_ Kourou,5.23739,-52.7695,20,1968–,<200,777 000 kg,Interplanetary,-1,Operated by CNES for ESA; launch base for Arianespace. Commercial and governmental launches.
+Asia,Israel,IL,Palmachim Air Force Base,31.88484,34.6802,-0.3,1987–,9,70 000 kg,Orbital,-1,[17]
 Asia,India,IN,Satish Dhawan Space Centre (Sriharikota)_ Andhra Pradesh,13.7374,80.2351,-8.8,1971–,,402 000 kg,Interplanetary,-1,Satellites and lunar probes;[13]
 Asia,Iran,IR,Semnan spaceport,35.234631,53.920941,999.6,2009–,2,,Orbital,-1,
-Asia,Israel,IL,Palmachim Air Force Base,31.88484,34.6802,-0.3,1987–,9,70 000 kg,Orbital,-1,[17]
-Asia,Japan,JP,Uchinoura Space Center,31.25186,131.07914,14.9,1962–,,139 000 kg,Interplanetary,-1,[18]
 Asia,Japan,JP,Tanegashima Space Center,30.39096,130.96813,1.2,1967–,,445 000 kg,Interplanetary,-1,[19]
-Asia,Kazakhstan,KZ,Baikonur Cosmodrome_ Tyuratam,45.95515,63.35028,98.3,1957–,>1000,2 400 000 kg,Interplanetary,-1,First satellite_ first human. Operated by Russia.[20]
-Asia,Korea South,KR,Naro Space Center_ Gohueng,34.42585,127.52793,-3.2,2008,3,,Orbital,-1,Attempted satellite launches[23]
+Asia,Japan,JP,Uchinoura Space Center,31.25186,131.07914,14.9,1962–,,139 000 kg,Interplanetary,-1,[18]
 Asia,Korea_ North,KP,Sohae,39.66,124.705,24.8,2012–,,,,-1,Military rockets; satellite launch[22]
+Asia,Korea South,KR,Naro Space Center_ Gohueng,34.42585,127.52793,-3.2,2008,3,,Orbital,-1,Attempted satellite launches[23]
+Asia,Kazakhstan,KZ,Baikonur Cosmodrome_ Tyuratam,45.95515,63.35028,98.3,1957–,>1000,2 400 000 kg,Interplanetary,-1,First satellite_ first human. Operated by Russia.[20]
+Oceania,Marshall Islands,MH,Reagan Test Site_ Omelek Island_ Kwajalein Atoll,9.048167,167.743083,546.5,1950s-,,39 000 kg,Orbital,-1,US-controlled ICBM base converted for satellites. SpaceX Falcon 1. Close to the equator.
+Europe,Russia,RU,Kapustin Yar Cosmodrome_ Astrakhan Oblast,48.57807,46.2542,19.9,1957–[citation needed],,,Orbital,-1,Previously for satellite launches[35]
+Europe,Russia,RU,Plesetsk Cosmodrome,62.92555556,40.57777778,89.7,1966–,>1000,760 000 kg,Orbital,-1,
 Asia,Russia,RU,Svobodny Cosmodrome_ Amur Oblast,51.83441,128.2757,265.7,1957–2007,,47 000 kg,Orbital,-1,ICBM base converted for satellites[29]
 Asia,Russia,RU,Yasny Cosmodrome (formerly Dombarovskiy)_ Orenburg Oblast,51.20706,59.85003,309.9,2006–,,211 000 kg,Orbital,-1,ICBM base converted for satellites[30]
-Europe,Russia,RU,Plesetsk Cosmodrome,62.92555556,40.57777778,89.7,1966–,>1000,760 000 kg,Orbital,-1,
-Europe,Russia,RU,Kapustin Yar Cosmodrome_ Astrakhan Oblast,48.57807,46.2542,19.9,1957–[citation needed],,,Orbital,-1,Previously for satellite launches[35]
+North America,United States,US,Cape Canaveral Air Force Station_ Florida,28.46675,-80.55852,2.1,1956–,,,Interstellar,-1,Commercial and U.S. Government unmanned missions.
 North America,United States,US,Kennedy Space Center_ Florida,28.6082,-80.604,-5.3,1963–,151,3 000 000 kg,Interplanetary,-1,Launched each NASA manned mission. Adjacent to Cape Canaveral Air Force Station.
 North America,United States,US,Kodiak Launch Complex_ Alaska,57.43533,-152.33931,71.4,1991–,14,86 000 kg,Orbital,-1,Ballistic missile interceptor tests_ satellite launches. Alaska Aerospace Corporation.[50]
 North America,United States,US,Mid-Atlantic Regional Spaceport (MARS)_ Delmarva Peninsula_ Virginia,37.833378,-75.483284,-0.5,2006–,6,89 805 kg,Lunar,-1,Operates in partnership with NASA_ adjacent to the Wallops Flight Facility site. Designed for both commercial and government launches.[55]
-North America,United States,US,Wallops Flight Facility_ Delmarva Peninsula_ Virginia,37.84621,-75.47938,0.7,1945–,,,,-1,Now operated by NASAs Goddard Space Flight Center[46]
-North America,United States,US,Cape Canaveral Air Force Station_ Florida,28.46675,-80.55852,2.1,1956–,,,Interstellar,-1,Commercial and U.S. Government unmanned missions.
 North America,United States,US,Vandenberg Air Force Base_ California,34.77204,-120.60124,53,1958–,,,Interplanetary,-1,Satellites_ ballistic missile tests. Government and commercial launches.[49]
-Oceania,Australia,AU,Woomera Test Range,-30.95875,136.50366,145.7,1950s–,,28 000 kg,Orbital,-1,British/Australian government research facility. Missile testing_ 2 satellite launches.
-Oceania,Marshall Islands,MH,Reagan Test Site_ Omelek Island_ Kwajalein Atoll,9.048167,167.743083,546.5,1950s-,,39 000 kg,Orbital,-1,US-controlled ICBM base converted for satellites. SpaceX Falcon 1. Close to the equator.
-South America,France,FR,Guiana Space Centre_ Kourou,5.23739,-52.7695,20,1968–,<200,777 000 kg,Interplanetary,-1,Operated by CNES for ESA; launch base for Arianespace. Commercial and governmental launches.
+North America,United States,US,Wallops Flight Facility_ Delmarva Peninsula_ Virginia,37.84621,-75.47938,0.7,1945–,,,,-1,Now operated by NASAs Goddard Space Flight Center[46]
 Africa,Kenya,KE,Broglio Space Centre (San Marco)_ Malindi,-2.9408,40.2134,13.3,1964–1988,27,20 000 kg,Orbital,-2,Scout rockets_ operated by ASI and Sapienza University of Rome_ Italy.[5]
 Oceania,New Zealand,NZ,Mahia,-39.26044,177.86431,89.3,2017–,2,10 500 kg,Orbital,-2,First commercial spaceport in the southern hemisphere.
