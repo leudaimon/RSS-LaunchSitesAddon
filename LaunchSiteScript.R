@@ -17,6 +17,7 @@ for (i in 1:nrow(data.include)) {
 		"      PQSCity",
 		"      {",
 	  "        KEYname = KSC",
+		"        changeGrassColor = true",
 		paste("        latitude = ", data.include$Lat[i], sep = ""),
 		paste("        longitude = ", data.include$Long[i], sep = ""),
 		paste("        repositionRadiusOffset = ", data.include$altitude[i]+50, sep = ""),
